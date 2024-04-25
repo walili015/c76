@@ -5,7 +5,7 @@
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinBanner": "9ca46263e80f2e44",
     "applovinInterstitial": "9feb5d307760b7fa",
-    "ratingactive": false,
+    "ratingactive": true,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
     "modeads": false,
