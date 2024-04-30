@@ -1,10 +1,10 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "applovin",
     "admobBanner": "ca-app-pub-3940256099942544/9214589741",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "applovinBanner": "0cd90b418853cb8e",
-    "applovinInterstitial": "77a133e931384634",
+    "applovinBanner": "16d0ace77790316a",
+    "applovinInterstitial": "2bdd92815ac71001",
     "ratingactive": false,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
